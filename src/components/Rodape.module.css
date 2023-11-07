@@ -1,0 +1,27 @@
+.linha{
+    background-color: black;
+    padding: 15px;
+}
+
+.finalSite{
+    font-size: 6pt;
+    color: white;
+    margin-bottom: -10px;
+}
+
+.finalSobreEmpresa{
+    font-size: 11pt;
+    color: white;
+}
+
+.botao1{
+    border: none;
+    background-color: black;
+    padding: 20px;
+}
+
+.botao2{
+    border: none;
+    background-color: black;
+    padding: 20px;
+}

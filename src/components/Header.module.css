@@ -1,0 +1,46 @@
+.header{
+    background: #FFFF7F;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 100px;
+}
+
+.img{
+    width: 20px;
+    background-color: #4BDF44;
+    margin-right: 6px;
+    margin-bottom: 3px;
+    margin-left: 5px;
+}
+
+.botao{
+    background-color: #4BDF44;
+    border: none;
+    color: white;
+    border-radius: 45px;
+    padding: 5px;
+}
+
+.divLogo {
+    position: relative;
+}
+
+.miranha {
+    position: absolute;
+    top: -137px;
+    left: 180px;
+    transition: all 0.5s;
+    z-index: 99999;
+}
+
+.divLogo:hover .miranha {
+    top: 36px;
+}
+
+@media (max-width: 769px){
+    .miranha {
+        top: -137px;
+        left: 90px;
+    }
+}

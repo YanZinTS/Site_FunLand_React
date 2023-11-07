@@ -1,0 +1,19 @@
+.sobre{
+    font-size: 92pt;
+    margin-top: 25px;
+    text-align: end;
+}
+
+.sobreDes{
+    margin-top: 66px;
+    font-size: 14pt;
+    text-align: justify;
+}
+
+.sobreEmpresa{
+    display: flex;
+}
+
+.linhaSobre{
+    padding: 25px;
+}

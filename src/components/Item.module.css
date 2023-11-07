@@ -1,0 +1,29 @@
+.curtir{
+    width: 20px;
+    /*margin-bottom: 90px;*/
+    /*margin-right: 5px;*/
+    position: absolute;
+    top: -1px;
+}
+
+.botaoComprar{
+    border: none;
+    background-color: #5955E2;
+    color: white;
+    padding: 10px;
+    border-radius: 45px;
+    margin: 24px auto 0px;
+    width: 180px;
+}
+
+.img{
+    width: 150px;
+}
+
+.prodItem {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 15px 10px;
+    position: relative;
+}
